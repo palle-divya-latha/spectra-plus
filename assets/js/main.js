@@ -230,3 +230,10 @@
   });
 
 })()
+
+// document.addEventListener('DOMContentLoaded', function() {
+//   setInterval(function() {
+//       var contactBtn = document.getElementById('contactBtn');
+//       contactBtn.style.display = (contactBtn.style.display === 'none' || contactBtn.style.display === '') ? 'block' : 'none';
+//   }, 20000); // 30 seconds interval
+// });
